@@ -6,7 +6,7 @@ This is homework assignment 1 for unit 1.
 
 We were given html and css for a webpage and were tasked to refactor it.
 
-The goal of the refactor is to use semantic HTML tags instead of generic div tags.
+The goal of the refactor is to use semantic HTML tags instead of generic `div` tags.
 
 We also were tasked to improve accessibility and clean the html and css text.
 
